@@ -1,2 +1,4 @@
-# haxanfont
-a font designed for comics 
+# Haxanfont
+
+a font designed for a new comic
+
