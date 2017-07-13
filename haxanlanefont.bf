@@ -1255,6 +1255,7 @@
 <kerning left="a" right="W" hadjustment="-42.0000000000" />
 <kerning left="i" right="a" hadjustment="-40.0000000000" />
 <kerning left="q" right="k" hadjustment="-40.0000000000" />
+<kerning left="9" right="%" hadjustment="-22.8705882353" />
 <kerning left="E" right="5" hadjustment="-30.4941176471" />
 <kerning left="M" right="?" hadjustment="-30.1882352941" />
 <kerning left="U" right="I" hadjustment="-32.9176470588" />
@@ -1310,6 +1311,7 @@
 <kerning left="Y" right="R" hadjustment="-31.5411764706" />
 <kerning left="i" right="f" hadjustment="-43.0000000000" />
 <kerning left="y" right="z" hadjustment="-38.0000000000" />
+<kerning left="5" right="%" hadjustment="-21.6000000000" />
 <kerning left="E" right=":" hadjustment="-51.4352941176" />
 <kerning left="M" right="D" hadjustment="-29.0000000000" />
 <kerning left="U" right="N" hadjustment="-32.8117647059" />
@@ -1351,6 +1353,7 @@
 <kerning left="Q" right="L" hadjustment="-29.0000000000" />
 <kerning left="Y" right="V" hadjustment="-25.1882352941" />
 <kerning left="i" right="j" hadjustment="-49.0000000000" />
+<kerning left="9" right="." hadjustment="-41.9294117647" />
 <kerning left="M" right="H" hadjustment="-29.0000000000" />
 <kerning left="U" right="R" hadjustment="-36.0000000000" />
 <kerning left="e" right="f" hadjustment="-37.0000000000" />
@@ -1362,6 +1365,7 @@
 <kerning left="a" right="a" hadjustment="-37.0000000000" />
 <kerning left="i" right="k" hadjustment="-45.0000000000" />
 <kerning left="q" right="u" hadjustment="-34.0000000000" />
+<kerning left="1" right="%" hadjustment="-25.4117647059" />
 <kerning left="E" right="?" hadjustment="-34.0000000000" />
 <kerning left="M" right="I" hadjustment="-25.3764705882" />
 <kerning left="U" right="S" hadjustment="-28.9176470588" />
@@ -1407,6 +1411,7 @@
 <kerning left="Q" right="Q" hadjustment="-31.0000000000" />
 <kerning left="a" right="e" hadjustment="-42.0000000000" />
 <kerning left="i" right="o" hadjustment="-46.0000000000" />
+<kerning left="5" right="." hadjustment="-43.2000000000" />
 <kerning left="E" right="C" hadjustment="-32.0000000000" />
 <kerning left="M" right="M" hadjustment="-29.0000000000" />
 <kerning left="U" right="W" hadjustment="-29.0000000000" />
@@ -1440,6 +1445,7 @@
 <kerning left="Q" right="T" hadjustment="-29.0000000000" />
 <kerning left="a" right="h" hadjustment="-42.0000000000" />
 <kerning left="i" right="r" hadjustment="-46.0000000000" />
+<kerning left="1" right="," hadjustment="-41.9294117647" />
 <kerning left="5" right="2" hadjustment="-27.9529411765" />
 <kerning left="E" right="F" hadjustment="-34.0823529412" />
 <kerning left="M" right="P" hadjustment="-33.0000000000" />
@@ -1463,6 +1469,7 @@
 <kerning left="Q" right="V" hadjustment="-29.0000000000" />
 <kerning left="a" right="j" hadjustment="-42.0000000000" />
 <kerning left="i" right="t" hadjustment="-42.0000000000" />
+<kerning left="1" right="." hadjustment="-43.2000000000" />
 <kerning left="5" right="4" hadjustment="-29.2235294118" />
 <kerning left="E" right="H" hadjustment="-36.6235294118" />
 <kerning left="M" right="R" hadjustment="-29.0000000000" />
@@ -1484,6 +1491,7 @@
 <kerning left="Y" right="b" hadjustment="-32.0000000000" />
 <kerning left="a" right="l" hadjustment="-49.0000000000" />
 <kerning left="i" right="v" hadjustment="-47.0000000000" />
+<kerning left="1" right="0" hadjustment="-33.0352941176" />
 <kerning left="5" right="6" hadjustment="-5.0470588235" />
 <kerning left="E" right="J" hadjustment="-29.0000000000" />
 <kerning left="M" right="T" hadjustment="-29.0000000000" />
@@ -1499,7 +1507,7 @@
 <kerning left="E" right="K" hadjustment="-34.0000000000" />
 <kerning left="M" right="U" hadjustment="-29.0000000000" />
 <kerning left="e" right="s" hadjustment="-43.0000000000" />
-<kerning left="1" right="2" hadjustment="-34.0000000000" />
+<kerning left="1" right="2" hadjustment="-36.5411764706" />
 <kerning left="A" right="F" hadjustment="-36.6235294118" />
 <kerning left="I" right="P" hadjustment="-45.8117647059" />
 <kerning left="Q" right="Z" hadjustment="-29.0000000000" />
@@ -1830,7 +1838,7 @@
 <kerning left="space" right="!" hadjustment="-26.6823529412" />
 <kerning left="B" right="&gt;" hadjustment="-29.2235294118" />
 <kerning left="space" right="#" hadjustment="-97.8352941176" />
-<kerning left="space" right="$" hadjustment="-114.3529411765" />
+<kerning left="space" right="$" hadjustment="-111.8117647059" />
 <kerning left="space" right="%" hadjustment="-106.7294117647" />
 <kerning left="space" right="'" hadjustment="-104.1882352941" />
 <kerning left="space" right="(" hadjustment="-90.2117647059" />
@@ -1840,16 +1848,16 @@
 <kerning left="space" right="," hadjustment="-111.1176470588" />
 <kerning left="space" right="." hadjustment="-126.1176470588" />
 <kerning left="space" right="/" hadjustment="-96.5647058824" />
-<kerning left="space" right="0" hadjustment="-104.1882352941" />
-<kerning left="space" right="1" hadjustment="-127.0588235294" />
+<kerning left="space" right="0" hadjustment="-121.9764705882" />
+<kerning left="space" right="1" hadjustment="-119.4352941176" />
 <kerning left="space" right="2" hadjustment="-118.1647058824" />
 <kerning left="space" right="3" hadjustment="-119.4352941177" />
 <kerning left="space" right="4" hadjustment="-121.9764705883" />
 <kerning left="space" right="5" hadjustment="-120.7058823529" />
 <kerning left="space" right="6" hadjustment="-116.8941176471" />
 <kerning left="space" right="7" hadjustment="-110.5411764706" />
-<kerning left="space" right="8" hadjustment="-101.6470588236" />
-<kerning left="space" right="9" hadjustment="-105.4588235294" />
+<kerning left="space" right="8" hadjustment="-111.8117647060" />
+<kerning left="space" right="9" hadjustment="-113.0823529412" />
 <kerning left="space" right=":" hadjustment="-135.9529411765" />
 <kerning left="space" right=";" hadjustment="-124.5176470588" />
 <kerning left="space" right="=" hadjustment="-114.3529411765" />
@@ -2356,6 +2364,7 @@
 <kerning left="Z" right="R" hadjustment="-29.0000000000" />
 <kerning left="j" right="f" hadjustment="-41.0000000000" />
 <kerning left="z" right="z" hadjustment="-31.0000000000" />
+<kerning left="6" right="%" hadjustment="-21.6000000000" />
 <kerning left="F" right=":" hadjustment="-44.4705882353" />
 <kerning left="N" right="D" hadjustment="-32.0000000000" />
 <kerning left="V" right="N" hadjustment="-29.0000000000" />
@@ -2411,6 +2420,7 @@
 <kerning left="b" right="a" hadjustment="-36.0000000000" />
 <kerning left="j" right="k" hadjustment="-45.0000000000" />
 <kerning left="r" right="u" hadjustment="-35.0000000000" />
+<kerning left="2" right="%" hadjustment="-21.6000000000" />
 <kerning left="." right="!" hadjustment="12.0000000000" />
 <kerning left="F" right="?" hadjustment="-34.0000000000" />
 <kerning left="N" right="I" hadjustment="-33.0000000000" />
@@ -2455,6 +2465,7 @@
 <kerning left="R" right="Q" hadjustment="-29.0000000000" />
 <kerning left="b" right="e" hadjustment="-39.0000000000" />
 <kerning left="r" right="y" hadjustment="-38.0000000000" />
+<kerning left="6" right="." hadjustment="-43.2000000000" />
 <kerning left="F" right="C" hadjustment="-29.0000000000" />
 <kerning left="N" right="M" hadjustment="-29.0000000000" />
 <kerning left="V" right="W" hadjustment="-29.0000000000" />
@@ -2472,6 +2483,7 @@
 <kerning left="J" right="I" hadjustment="-36.6235294118" />
 <kerning left="R" right="S" hadjustment="-29.0000000000" />
 <kerning left="b" right="g" hadjustment="-35.0000000000" />
+<kerning left="6" right="0" hadjustment="-31.7647058824" />
 <kerning left="." right="'" hadjustment="-34.0000000000" />
 <kerning left="6" right="1" hadjustment="-38.1176470588" />
 <kerning left="F" right="E" hadjustment="-29.0000000000" />
@@ -2482,6 +2494,7 @@
 <kerning left="J" right="J" hadjustment="-29.0000000000" />
 <kerning left="R" right="T" hadjustment="-31.0000000000" />
 <kerning left="b" right="h" hadjustment="-41.0000000000" />
+<kerning left="2" right="," hadjustment="-35.5764705882" />
 <kerning left="6" right="2" hadjustment="-30.4941176471" />
 <kerning left="F" right="F" hadjustment="-29.0000000000" />
 <kerning left="N" right="P" hadjustment="-29.0000000000" />
@@ -2501,6 +2514,7 @@
 <kerning left="J" right="L" hadjustment="-29.0000000000" />
 <kerning left="R" right="V" hadjustment="-29.0000000000" />
 <kerning left="b" right="j" hadjustment="-43.0000000000" />
+<kerning left="2" right="." hadjustment="-38.1176470588" />
 <kerning left="6" right="4" hadjustment="-31.7647058824" />
 <kerning left="F" right="H" hadjustment="-32.8117647059" />
 <kerning left="N" right="R" hadjustment="-29.0000000000" />
@@ -2521,6 +2535,7 @@
 <kerning left="R" right="X" hadjustment="-29.0000000000" />
 <kerning left="Z" right="b" hadjustment="-32.0000000000" />
 <kerning left="b" right="l" hadjustment="-46.0000000000" />
+<kerning left="2" right="0" hadjustment="-30.4941176471" />
 <kerning left="." right="," hadjustment="-34.0000000000" />
 <kerning left="F" right="J" hadjustment="-29.0000000000" />
 <kerning left="N" right="T" hadjustment="-36.6235294118" />
@@ -2570,6 +2585,7 @@
 <kerning left="Z" right="g" hadjustment="-30.0000000000" />
 <kerning left="b" right="q" hadjustment="-38.0000000000" />
 <kerning left="2" right="5" hadjustment="-29.2235294118" />
+<kerning left="." right="0" hadjustment="-35.5764705882" />
 <kerning left="F" right="O" hadjustment="-33.1882352941" />
 <kerning left="N" right="Y" hadjustment="-29.0000000000" />
 <kerning left="V" right="c" hadjustment="-40.0000000000" />
@@ -2610,6 +2626,7 @@
 <kerning left="R" right="b" hadjustment="-32.0000000000" />
 <kerning left="Z" right="l" hadjustment="-42.0000000000" />
 <kerning left="b" right="v" hadjustment="-43.0000000000" />
+<kerning left="." right="5" hadjustment="-29.2235294118" />
 <kerning left="F" right="T" hadjustment="-29.0000000000" />
 <kerning left="V" right="h" hadjustment="-31.0000000000" />
 <kerning left="B" right="O" hadjustment="-35.0000000000" />
@@ -2806,7 +2823,7 @@
 <kerning left="." right="W" hadjustment="-29.0000000000" />
 <kerning left="F" right="u" hadjustment="-31.0000000000" />
 <kerning left="J" right="z" hadjustment="-25.0000000000" />
-<kerning left="." right="space" hadjustment="-2.0000000000" />
+<kerning left="." right="space" hadjustment="15.7882352941" />
 <kerning left="." right="X" hadjustment="-29.0000000000" />
 <kerning left="F" right="v" hadjustment="-38.0000000000" />
 <kerning left="." right="Y" hadjustment="-31.0000000000" />
@@ -3226,6 +3243,7 @@
 <kerning left="w" right="u" hadjustment="-35.0000000000" />
 <kerning left="G" right="9" hadjustment="-30.4941176471" />
 <kerning left="C" right="4" hadjustment="-30.4941176471" />
+<kerning left="7" right="%" hadjustment="-26.6823529412" />
 <kerning left="K" right="?" hadjustment="-30.1882352941" />
 <kerning left="S" right="I" hadjustment="-37.0000000000" />
 <kerning left="O" right="D" hadjustment="-31.5411764706" />
@@ -3279,6 +3297,7 @@
 <kerning left="7" right="*" hadjustment="-36.0000000000" />
 <kerning left="g" right="f" hadjustment="-38.0000000000" />
 <kerning left="o" right="p" hadjustment="5.0000000000" />
+<kerning left="3" right="%" hadjustment="-22.8705882353" />
 <kerning left="K" right="D" hadjustment="-29.0000000000" />
 <kerning left="S" right="N" hadjustment="-29.0000000000" />
 <kerning left="G" right="?" hadjustment="-34.0000000000" />
@@ -3318,6 +3337,7 @@
 <kerning left="k" right="o" hadjustment="-42.0000000000" />
 <kerning left="g" right="j" hadjustment="-38.0000000000" />
 <kerning left="C" right="=" hadjustment="-33.0352941176" />
+<kerning left="7" right="." hadjustment="-47.0117647059" />
 <kerning left="L" right=".." hadjustment="-29.0000000000" />
 <kerning left="K" right="H" hadjustment="-34.0823529412" />
 <kerning left="S" right="R" hadjustment="-34.0823529412" />
@@ -3351,6 +3371,7 @@
 <kerning left="g" right="m" hadjustment="-35.0000000000" />
 <kerning left="o" right="w" hadjustment="-35.0000000000" />
 <kerning left="7" right="1" hadjustment="-26.6823529412" />
+<kerning left="3" right="," hadjustment="-38.1176470588" />
 <kerning left="C" right="A" hadjustment="-40.4352941177" />
 <kerning left="K" right="K" hadjustment="-34.0823529412" />
 <kerning left="S" right="U" hadjustment="-29.0000000000" />
@@ -3371,6 +3392,7 @@
 <kerning left="k" right="t" hadjustment="-36.0000000000" />
 <kerning left="g" right="o" hadjustment="-42.0000000000" />
 <kerning left="7" right="3" hadjustment="-29.2235294118" />
+<kerning left="3" right="." hadjustment="-43.2000000000" />
 <kerning left="C" right="C" hadjustment="-32.8117647059" />
 <kerning left="K" right="M" hadjustment="-29.0000000000" />
 <kerning left="S" right="W" hadjustment="-29.0000000000" />
@@ -3390,6 +3412,7 @@
 <kerning left="k" right="v" hadjustment="-40.0000000000" />
 <kerning left="g" right="q" hadjustment="-41.0000000000" />
 <kerning left="7" right="5" hadjustment="-31.7647058824" />
+<kerning left="3" right="0" hadjustment="-33.0352941176" />
 <kerning left="C" right="E" hadjustment="-36.6235294117" />
 <kerning left="K" right="O" hadjustment="-30.3764705882" />
 <kerning left="S" right="Y" hadjustment="-29.0000000000" />
@@ -3753,6 +3776,7 @@
 <kerning left="C" right="divis" hadjustment="-38.1176470588" />
 <kerning left="v" right=".." hadjustment="-46.0000000000" />
 <kerning left="." right=".." hadjustment="-29.0000000000" />
+<kerning left="%" right="space" hadjustment="49.5529411765" />
 <kerning left="D" right=".." hadjustment="-29.0000000000" />
 <kerning left="Y" right="space" hadjustment="11.1647058823" />
 <kerning left="space" right=".." hadjustment="-88.0000000000" />
@@ -4075,6 +4099,7 @@
 <kerning left="h" right="a" hadjustment="-30.0000000000" />
 <kerning left="p" right="k" hadjustment="-40.0000000000" />
 <kerning left="D" right="4" hadjustment="-26.6823529412" />
+<kerning left="8" right="%" hadjustment="-22.8705882353" />
 <kerning left="L" right="?" hadjustment="-34.0000000000" />
 <kerning left="T" right="I" hadjustment="-37.5411764706" />
 <kerning left="P" right="D" hadjustment="-34.0823529412" />
@@ -4119,6 +4144,7 @@
 <kerning left="t" right="u" hadjustment="-34.0000000000" />
 <kerning left="h" right="f" hadjustment="-34.0000000000" />
 <kerning left="p" right="p" hadjustment="-40.0000000000" />
+<kerning left="4" right="%" hadjustment="-22.8705882353" />
 <kerning left="L" right="D" hadjustment="-39.1647058824" />
 <kerning left="T" right="N" hadjustment="-29.0000000000" />
 <kerning left="H" right="?" hadjustment="-34.0000000000" />
@@ -4155,6 +4181,7 @@
 <kerning left="l" right="o" hadjustment="-45.0000000000" />
 <kerning left="h" right="j" hadjustment="-35.0000000000" />
 <kerning left="D" right="=" hadjustment="-25.4117647059" />
+<kerning left="8" right="." hadjustment="-43.2000000000" />
 <kerning left="L" right="H" hadjustment="-37.8941176471" />
 <kerning left="T" right="R" hadjustment="-35.0000000000" />
 <kerning left="H" right="C" hadjustment="-32.8117647059" />
@@ -4163,6 +4190,7 @@
 <kerning left="d" right="f" hadjustment="-39.0000000000" />
 <kerning left="l" right="p" hadjustment="-42.0000000000" />
 <kerning left="h" right="k" hadjustment="-36.0000000000" />
+<kerning left="0" right="%" hadjustment="-22.8705882353" />
 <kerning left="D" right="?" hadjustment="-34.0000000000" />
 <kerning left="L" right="I" hadjustment="-42.7294117647" />
 <kerning left="T" right="S" hadjustment="-35.0000000000" />
@@ -4201,6 +4229,7 @@
 <kerning left="l" right="t" hadjustment="-40.0000000000" />
 <kerning left="h" right="o" hadjustment="-37.0000000000" />
 <kerning left="8" right="3" hadjustment="-33.0352941176" />
+<kerning left="4" right="." hadjustment="-39.3882352941" />
 <kerning left="K" right="space" hadjustment="16.6000000000" />
 <kerning left="D" right="C" hadjustment="-29.0000000000" />
 <kerning left="L" right="M" hadjustment="-29.0000000000" />
@@ -4221,6 +4250,7 @@
 <kerning left="l" right="v" hadjustment="-45.0000000000" />
 <kerning left="h" right="q" hadjustment="-35.0000000000" />
 <kerning left="8" right="5" hadjustment="-26.6823529412" />
+<kerning left="4" right="0" hadjustment="-38.1176470588" />
 <kerning left="D" right="E" hadjustment="-29.0000000000" />
 <kerning left="L" right="O" hadjustment="-40.0000000000" />
 <kerning left="T" right="Y" hadjustment="-29.0000000000" />
@@ -4250,6 +4280,7 @@
 <kerning left="h" right="t" hadjustment="-32.0000000000" />
 <kerning left="4" right="3" hadjustment="-34.3058823529" />
 <kerning left="8" right="8" hadjustment="-33.0352941176" />
+<kerning left="0" right="." hadjustment="-43.2000000000" />
 <kerning left="D" right="H" hadjustment="-32.8117647059" />
 <kerning left="L" right="R" hadjustment="-36.6235294118" />
 <kerning left="H" right="M" hadjustment="-30.2705882353" />
@@ -4268,7 +4299,7 @@
 <kerning left="4" right="5" hadjustment="-34.0000000000" />
 <kerning left="d" right="q" hadjustment="-40.0000000000" />
 <kerning left="h" right="v" hadjustment="-41.0000000000" />
-<kerning left="0" right="0" hadjustment="-34.3058823529" />
+<kerning left="0" right="0" hadjustment="-26.6823529411" />
 <kerning left="D" right="J" hadjustment="-29.0000000000" />
 <kerning left="L" right="T" hadjustment="-41.0000000000" />
 <kerning left="H" right="O" hadjustment="-37.2705882353" />
@@ -4311,6 +4342,7 @@
 <kerning left="X" right="g" hadjustment="-30.0000000000" />
 <kerning left="d" right="v" hadjustment="-43.0000000000" />
 <kerning left="0" right="5" hadjustment="-26.6823529412" />
+<kerning left="," right="0" hadjustment="-35.5764705882" />
 <kerning left="D" right="O" hadjustment="-32.4588235294" />
 <kerning left="L" right="Y" hadjustment="-37.8941176471" />
 <kerning left="T" right="c" hadjustment="-40.0000000000" />
@@ -4370,6 +4402,7 @@
 <kerning left="T" right="l" hadjustment="-42.0000000000" />
 <kerning left="P" right="g" hadjustment="-30.0000000000" />
 <kerning left="," right=":" hadjustment="-48.0000000000" />
+<kerning left="$" right="0" hadjustment="-35.5764705882" />
 <kerning left="D" right="Y" hadjustment="-29.0000000000" />
 <kerning left="L" right="c" hadjustment="-40.0000000000" />
 <kerning left="T" right="m" hadjustment="-27.0000000000" />
@@ -4377,48 +4410,57 @@
 <kerning left="X" right="r" hadjustment="-31.0000000000" />
 <kerning left="," right=";" hadjustment="-45.0000000000" />
 <kerning left="8" right="J" hadjustment="-34.3058823529" />
+<kerning left="$" right="1" hadjustment="-36.8470588235" />
 <kerning left="D" right="Z" hadjustment="-29.0000000000" />
 <kerning left="L" right="d" hadjustment="-35.0000000000" />
 <kerning left="P" right="i" hadjustment="-38.0000000000" />
 <kerning left="T" right="n" hadjustment="-5.0000000000" />
 <kerning left="X" right="s" hadjustment="-31.0000000000" />
 <kerning left="0" right="A" hadjustment="-36.8470588235" />
+<kerning left="$" right="2" hadjustment="-30.4941176471" />
 <kerning left="L" right="e" hadjustment="-38.0000000000" />
 <kerning left="P" right="j" hadjustment="-39.0000000000" />
 <kerning left="T" right="o" hadjustment="-41.0000000000" />
 <kerning left="X" right="t" hadjustment="-33.0000000000" />
 <kerning left="0" right="B" hadjustment="-40.6588235294" />
+<kerning left="$" right="3" hadjustment="-33.0352941176" />
 <kerning left="L" right="f" hadjustment="-33.0000000000" />
 <kerning left="H" right="a" hadjustment="-38.0000000000" />
 <kerning left="P" right="k" hadjustment="-33.0000000000" />
 <kerning left="X" right="u" hadjustment="-31.0000000000" />
+<kerning left="$" right="4" hadjustment="-30.4941176471" />
 <kerning left="L" right="g" hadjustment="-30.0000000000" />
 <kerning left="H" right="b" hadjustment="-32.0000000000" />
 <kerning left="P" right="l" hadjustment="-42.0000000000" />
 <kerning left="X" right="v" hadjustment="-38.0000000000" />
+<kerning left="$" right="5" hadjustment="-29.2235294118" />
 <kerning left="L" right="h" hadjustment="-31.0000000000" />
 <kerning left="H" right="c" hadjustment="-40.0000000000" />
 <kerning left="P" right="m" hadjustment="-27.0000000000" />
 <kerning left="T" right="r" hadjustment="-31.0000000000" />
 <kerning left="X" right="w" hadjustment="-30.0000000000" />
+<kerning left="$" right="6" hadjustment="-33.0352941176" />
 <kerning left="L" right="i" hadjustment="-38.0000000000" />
 <kerning left="H" right="d" hadjustment="-35.0000000000" />
 <kerning left="P" right="n" hadjustment="-5.0000000000" />
 <kerning left="T" right="s" hadjustment="-31.0000000000" />
 <kerning left="X" right="x" hadjustment="-32.0000000000" />
 <kerning left="," right="A" hadjustment="-36.0000000000" />
+<kerning left="$" right="7" hadjustment="-33.0352941176" />
 <kerning left="L" right="j" hadjustment="-39.0000000000" />
 <kerning left="H" right="e" hadjustment="-38.0000000000" />
 <kerning left="P" right="o" hadjustment="-41.0000000000" />
 <kerning left="T" right="t" hadjustment="-33.0000000000" />
 <kerning left="X" right="y" hadjustment="-37.0000000000" />
 <kerning left="," right="B" hadjustment="-36.0000000000" />
+<kerning left="$" right="8" hadjustment="-33.0352941176" />
 <kerning left="D" right="a" hadjustment="-38.0000000000" />
 <kerning left="L" right="k" hadjustment="-33.0000000000" />
 <kerning left="H" right="f" hadjustment="-33.0000000000" />
 <kerning left="T" right="u" hadjustment="-31.0000000000" />
 <kerning left="X" right="z" hadjustment="-25.0000000000" />
 <kerning left="," right="C" hadjustment="-16.9411764706" />
+<kerning left="$" right="9" hadjustment="-33.0352941176" />
 <kerning left="D" right="b" hadjustment="-32.0000000000" />
 <kerning left="L" right="l" hadjustment="-42.0000000000" />
 <kerning left="H" right="g" hadjustment="-30.0000000000" />
